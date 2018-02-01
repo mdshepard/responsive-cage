@@ -12,7 +12,7 @@ header {
    font-family: sans-serif;
 }
 
-.columns {
+.column {
    display: flex;
    flex-direction: column;
    flex-wrap: wrap;
